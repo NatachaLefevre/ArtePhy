@@ -16,7 +16,7 @@ Natacha Lefèvre - Direction artistique, UI
 David Stoikovitch - Développement
 
 ## Procédé
-L'utilisateur entre une phrase, dont chaque est analysé par ArtePhy pour correspondre avec un extrait de contenu vidéo d'Arte.
+L'utilisateur entre une phrase, dont chaque mot est analysé par ArtePhy pour correspondre avec un extrait de contenu vidéo d'Arte.
 ArtePhy propose alors une vidéo de quelques secondes que l'utilisateur pourra partager.
 
 ![ArtePhy_presentation](https://github.com/user-attachments/assets/0b9c4519-7e4a-47d6-bd0b-7cf7767a1bc7)
