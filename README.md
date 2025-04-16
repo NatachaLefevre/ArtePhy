@@ -6,8 +6,13 @@ Nous avons remporté le 2e prix du hackathon.
 
 ## L'équipe
 Dimitri Barabe - Conception
+
 Lenny Bencherif  - Direction artistique
+
 Sarah Khoubbaz-Harl - Gestion de projet
+
+Natacha Lefèvre - Direction artistique, UI
+
 David Stoikovitch - Développement
 
 ## Procédé
