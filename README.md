@@ -2,7 +2,7 @@
 Générateur de mèmes vidéo générés à partir des contenus d'Arte
 
 Service numérique conçu dans le cadre du ARTE Playground 2016 organisé par Arte, le Numa et Simplon.co.
-Nous avons remporté le 2e prix du hackathon.
+Nous avons remporté le 2e prix du hackathon, puis avons poursuivi le projet en tant que prestataires auprès d'Arte.
 
 ## L'équipe
 Dimitri Barabe - Conception
